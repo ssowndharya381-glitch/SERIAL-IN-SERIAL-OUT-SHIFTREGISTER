@@ -30,8 +30,8 @@ Compile the program to check for errors.
 Generate the RTL schematic and timing diagram.  
 Simulate the design to verify the serial shift operation.   
 
-**PROGRAM**
-input clk;  
+**PROGRAM**  
+input clk;    
 input sin;  
 output [3:0] q;   
 reg [3:0] q;  
